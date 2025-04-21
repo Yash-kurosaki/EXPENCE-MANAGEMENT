@@ -1,4 +1,3 @@
-
 # Expense Management System
 
 ## Table of Contents
