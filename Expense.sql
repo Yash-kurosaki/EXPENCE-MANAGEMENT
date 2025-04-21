@@ -37,7 +37,7 @@ CREATE TABLE `admin` (
 
 LOCK TABLES `admin` WRITE;
 /*!40000 ALTER TABLE `admin` DISABLE KEYS */;
-INSERT INTO `admin` VALUES (1,'Ravi','ravi@gmail.com','$2a$10$u2UuPTH/g9NVBC9DYF3Pj.24P/a7BI.8vcf3wuJKroVEa9.yUisdy'),(2,'Ganthan','tmganthan@gmail.com','$2a$10$xlx2kh..0.mwebdtJ.j8jeJgQMT73M1L.c3DaytH.VMIniOAZ0xIe');
+INSERT INTO `admin` VALUES (1,'yash','sg1287617@gmail.com','$2a$10$u2UuPTH/g9NVBC9DYF3Pj.24P/a7BI.8vcf3wuJKroVEa9.yUisdy'),(2,'satyam','satyam@gmail.com','$2a$10$xlx2kh..0.mwebdtJ.j8jeJgQMT73M1L.c3DaytH.VMIniOAZ0xIe');
 /*!40000 ALTER TABLE `admin` ENABLE KEYS */;
 UNLOCK TABLES;
 

@@ -122,7 +122,7 @@ DB_PASSWORD=yourpassword
 ---
 
 ## Contact
-For any issues, contact `tmganthan@gmail.com`
+For any issues, contact `chauhanyash20006@gmail.com`
 
 =======
 # EXPENCE-MANAGEMENT
