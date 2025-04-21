@@ -1,17 +1,17 @@
 # Expense Management System
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [Backend Setup](#backend-setup)
-   - [Technologies Used](#technologies-used)
-   - [Installation](#installation)
-   - [Environment Variables](#environment-variables)
-   - [Running the Application](#running-the-application)
-   - [API Endpoints](#api-endpoints)
-3. [Frontend Setup](#frontend-setup)
-   - [Technologies Used](#frontend-technologies-used)
-   - [Installation](#frontend-installation)
-   - [Running the Application](#running-the-application)
+1. [Overview] (#overview)
+2. [Backend Setup] (#backend-setup)
+   - [Technologies Used] (#technologies-used)
+   - [Installation] (#installation)
+   - [Environment Variables] (#environment-variables)
+   - [Running the Application] (#running-the-application)
+   - [API Endpoints] (#api-endpoints)
+3. [Frontend Setup] (#frontend-setup)
+   - [Technologies Used] (#frontend-technologies-used)
+   - [Installation] (#frontend-installation)
+   - [Running the Application] (#running-the-application)
 
 ---
 
