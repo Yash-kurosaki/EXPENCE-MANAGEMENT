@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Expense Management System
 
 ## Table of Contents
@@ -124,6 +124,5 @@ DB_PASSWORD=yourpassword
 ## Contact
 For any issues, contact `chauhanyash20006@gmail.com`
 
-=======
-# EXPENCE-MANAGEMENT
->>>>>>> 76290836621e5f2719420f1cfe3e54c3cf912151
+
+
